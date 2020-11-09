@@ -1,29 +1,25 @@
 /* ========================================================================
-   Component: Typography
+   Component: Card
  ========================================================================== */
  
 
-
-.montserra{
-	font-family: "Montserra";
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-.roboto{
-	font-family: "Roboto";
-}
 
-h1{
+.card:hover {
 
 }
 
-h2{
+
+.card-body {
 
 }
 
-h3{
+
+.card-link {
 
 }
 
-p{
-	
-}
+

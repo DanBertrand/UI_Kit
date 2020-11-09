@@ -14,52 +14,52 @@
 
 
  /*Primary*/
-.text-primary{
+.text-primary {
 	color:#804452;
 }
 
 
-.bckgrnd-primary{
+.bckgrnd-primary{ 
 	background-color: #804452;
 }
 
  /*Secondary*/
-.text-secondary{
+.text-secondary {
 	color:#95CC9D;
 }
 
 
-.bckgrnd-secondary{
+.bckgrnd-secondary {
 	background-color: #95CC9D;
 }
 
 
 
 /*Dark*/
-.text-dark{
+.text-dark {
 	color: #4C545C;
 }
 
-.bckgrnd-dark{
+.bckgrnd-dark {
 	background-color: #4C545C;
 }
 
 
 /*Medium-light*/
-.text-medium-light{
+.text-medium-light {
 	color: #BCBCBB;
 }
 
-.bckgrnd-medium-light{
+.bckgrnd-medium-light {
 	background-color: #BCBCBB;
 }
 
 
 /*Light*/
-.text-light{
+.text-light {
 	color: #ECECEC;
 }
 
-.bckgrnd-light{
+.bckgrnd-light {
 	background-color: #ECECEC;
 }

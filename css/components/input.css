@@ -37,13 +37,12 @@ input[type=text]:focus {
   border: 2px solid #804452;
 }
 
-input[type=submit] {
-  width: 100%;
-  background-color: #95CC9D;
-  color: #804452;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: 1px solid #804452;
-  border-radius: 4px;
+input[type=button], input[type=submit], input[type=reset] {
+  background-color:#804452;
+  border: none;
+  color: #95CC9D;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
   cursor: pointer;
 }
