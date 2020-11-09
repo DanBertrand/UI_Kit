@@ -1,0 +1,121 @@
+/* ========================================================================
+   Component: Button
+ ========================================================================== */
+
+
+ /*Primary*/
+
+.btn-primary{
+	background-color: #95CC9D;
+	color: #804452;
+	padding: 8px 32px;
+	text-align: center;
+	font-size: 16px;
+	transition-duration: 0.2s;
+	border-radius: 50px;
+	border: 2px solid #804452;
+}
+
+.btn-primary:hover {
+	border: 2px solid #95CC9D;
+	background-color: #804452;
+	color: #95CC9D
+}
+
+
+
+/*Warning*/
+
+.btn-warning{
+	background-color: white;
+	color: #ff9900;
+	padding: 8px 32px;
+	text-align: center;
+	font-size: 16px;
+	transition-duration: 0.2s;
+	border-radius: 50px;
+	border: 2px solid #ff9900;
+}
+
+.btn-warning:hover {
+	border: 2px solid white;
+	background-color: #ff9900;
+	color: white;
+}
+
+
+
+/*Danger*/
+
+.btn-danger{
+	background-color: white;
+	color: #ff0000;
+	padding: 8px 32px;
+	text-align: center;
+	font-size: 16px;
+	transition-duration: 0.2s;
+	border-radius: 50px;
+	border: 2px solid #ff0000;
+}
+
+.btn-danger:hover {
+	border: 2px solid white;
+	background-color: #ff0000;
+	color: white;
+}
+
+
+/*Info*/
+
+.btn-info{
+	background-color: white;
+	color: #0099ff;
+	padding: 8px 32px;
+	text-align: center;
+	font-size: 16px;
+	transition-duration: 0.2s;
+	border-radius: 50px;
+	border: 2px solid #0099ff;
+}
+
+.btn-info:hover {
+	border: 2px solid whihte;
+	background-color: #0099ff;
+	color: white;
+}
+
+
+
+/*Success*/
+
+.btn-success{
+	background-color: #white;
+	color: #006600;
+	padding: 8px 32px;
+	text-align: center;
+	font-size: 16px;
+	transition-duration: 0.2s;
+	border-radius: 50px;
+	border: 2px solid #006600;
+}
+
+.btn-success:hover {
+	border: 2px solid white;
+	background-color: #006600;
+	color: white;
+}
+
+
+
+/*Button Size*/
+
+
+/*small*/
+.btn-sm{
+	padding: 2px 8px;
+}
+
+/*large*/
+.btn-lg{
+	padding: 16px 64px;
+}

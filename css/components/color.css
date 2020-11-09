@@ -1,0 +1,65 @@
+/* ========================================================================
+   Component: Color
+ ========================================================================== */
+ .box {
+   float: left;
+   height: 50px;
+   width: 50px;
+   margin-bottom: 15px;
+   margin-left: 4em;
+   border: 1px solid black;
+   clear: both;
+ }
+
+
+
+ /*Primary*/
+.text-primary{
+	color:#804452;
+}
+
+
+.bckgrnd-primary{
+	background-color: #804452;
+}
+
+ /*Secondary*/
+.text-secondary{
+	color:#95CC9D;
+}
+
+
+.bckgrnd-secondary{
+	background-color: #95CC9D;
+}
+
+
+
+/*Dark*/
+.text-dark{
+	color: #4C545C;
+}
+
+.bckgrnd-dark{
+	background-color: #4C545C;
+}
+
+
+/*Medium-light*/
+.text-medium-light{
+	color: #BCBCBB;
+}
+
+.bckgrnd-medium-light{
+	background-color: #BCBCBB;
+}
+
+
+/*Light*/
+.text-light{
+	color: #ECECEC;
+}
+
+.bckgrnd-light{
+	background-color: #ECECEC;
+}
