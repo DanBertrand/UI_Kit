@@ -1,0 +1,49 @@
+/* ========================================================================
+   Component: Input
+ ========================================================================== */
+ 
+ .div-form-conatainer{
+ 	display: flex;
+ 	justify-content: center;
+ 	background-color: #ECECEC;
+ }
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.div-form {
+  width: 50%;
+  border-radius: 5px;
+  background-color: #95CC9D;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+input[type=text], select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=text]:focus {
+  border: 2px solid #804452;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #95CC9D;
+  color: #804452;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 1px solid #804452;
+  border-radius: 4px;
+  cursor: pointer;
+}
